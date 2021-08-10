@@ -1,0 +1,14 @@
+{
+    "user": [
+        {
+            "Username": "Shubham Kulkarni",
+            "Password": "Shubham@14",
+            "Profile": {
+                "description": "Humble",
+                "d_o_b": "14/10/95",
+                "Gender": "Male",
+                "Hobbies": "Sports"
+            }
+        }
+    ]
+}
